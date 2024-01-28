@@ -7,6 +7,9 @@ In this guide, we will avoid using frameworks so we can learn & understand the f
 
 We will use Dart (a Java-like language from Google that underpins Flutter) as it enables us to have one language for the entire web application, client and server. This enables code reuse/type checking between client & server code. In larger, mature applications, the advantage of this can't be exaggerated.
 
+Here's a Youtube video explaining Dart in 100 seconds:
+https://www.youtube.com/watch?v=NrO0CJCbYLA&t=11s
+
 #### Prerequisites
 
 You'll need access to a Unix-like environment, such as Mac or Linux.
@@ -20,6 +23,8 @@ You will need to have Dart installed, which can be done [by following these inst
 Results can be delivered by sharing your work via your own git repo that is hosted on a service such as GitHub, gitlab, etc.
 
 This will enable efficient collaboration to solve any questions & issues you run into along the way.
+
+Creating a git repo will be covered in section 3.
 
 #### What to do if you get stuck
 
