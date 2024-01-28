@@ -2,7 +2,7 @@ Installing Dart is a straightforward process. Here's a step-by-step guide:
 
 1. **Download the Dart SDK:**
 
-   - Visit the official Dart website: dart.dev
+   - Visit the official Dart website: [dart.dev](https://dart.dev/)
    - Choose the appropriate version for your operating system (Windows, macOS, or Linux).
 
 2. **Installing on Windows:**
@@ -74,4 +74,4 @@ Installing Dart is a straightforward process. Here's a step-by-step guide:
    - You can use various IDEs with Dart support, like Visual Studio Code, IntelliJ IDEA, or Android Studio.
    - For Visual Studio Code, you can install the Dart extension for additional features like syntax highlighting, code analysis, and more.
 
-Remember, the exact instructions might vary slightly depending on your OS and its configuration, so it's always a good idea to refer to the official Dart documentation for the most up-to-date and detailed instructions.
+Remember, the exact instructions might vary slightly depending on your OS and its configuration, so it's always a good idea to refer to the [official Dart documentation](https://dart.dev/get-dart) for the most up-to-date and detailed instructions.
