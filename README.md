@@ -1,2 +1,33 @@
-# learn_my_vacation_mapper
-A guide for building a basic web application in Dart that can leverage a REST API, save data to a database. 
+# Create a Vacation Planner Web Application in Dart with PostgreSQL
+A guide for building a basic web application in Dart that can leverage a REST API & save data to a database.
+
+In this guide, we will avoid using frameworks so we can focus on the fundamentals of how a web application works. We will use Dart, however, to demonstrate code reuse/type checking between client & server code. In larger, mature applications, the advantage of this can't be exaggerated.
+
+#### Prerequisites
+
+You'll need access to a Unix-like environment, such as Mac or Linux.
+
+We will be using the shell quite a bit to fetch dependencies, build & run the application. If you are using Mac, I recommend https://hyper.is/.
+
+#### Sharing of your code
+
+Results can be delivered by sharing your work via your own git repo that is hosted on a service such as GitHub, gitlab, etc.
+
+This will enable efficient collaboration to solve any questions & issues you run into along the way.
+
+#### What to do if you get stuck
+
+Save your work to a git repo, hosted online, and share a link in email to it.
+
+Send along any error you're running into.
+
+
+
+#### Get Started
+
+The articles are organised in the top directory of this repo, numbered in order.
+
+You can view them in either GitHub (in your browser) or in a markdown viewer.
+
+Start here: https://github.com/ailabs-software/learn_vacation_planner
+
