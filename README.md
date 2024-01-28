@@ -9,6 +9,8 @@ You'll need access to a Unix-like environment, such as Mac or Linux.
 
 We will be using the shell quite a bit to fetch dependencies, build & run the application. If you are using Mac, I recommend https://hyper.is/.
 
+You will need to have Dart installed. Instructions here: https://github.com/ailabs-software/learn_vacation_planner/blob/main/install_dart.md
+
 #### Sharing of your code
 
 Results can be delivered by sharing your work via your own git repo that is hosted on a service such as GitHub, gitlab, etc.
