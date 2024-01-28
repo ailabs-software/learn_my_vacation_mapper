@@ -106,6 +106,8 @@ When we later need to also compile (or rather *transpile*) code to run in the br
 
 In the next section, we will start writing Dart code to build it out.
 
+
+
 **Note**: It is also possible to run Dart directly from the source code without compiling first, but we won't touch on that in this guide. See https://dart.dev/tools/dart-compile for more details on available options.
 
 `dart compile` is able to output JIT code (just-in-time, good for web applications typically), AOT code (minimises startup/warmup time so good for mobile apps with warmup could cause animation jank), or JavaScript (runs in the browser)
