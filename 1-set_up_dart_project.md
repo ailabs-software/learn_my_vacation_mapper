@@ -1,4 +1,6 @@
 # Set up our Dart project
+**Goal: ** At the end of this section, you will have a [hello world](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) running in Dart! This will set you up with a suitable project structure for building an SPA web application.
+
 Open your terminal.
 
 Change directories (`cd`) to the directory where you'd like to work on this project, if desired.
@@ -114,5 +116,5 @@ In the next section, we will start writing Dart code to build it out.
 
 
 
-
+**Link to next section here**
 

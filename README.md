@@ -1,7 +1,11 @@
 # Create a Vacation Planner Web Application in Dart with PostgreSQL
-A guide for building a basic web application in Dart that can leverage a REST API & save data to a database.
+A guide for building a full web application in Dart that can leverage a REST API & save data to a database.
 
-In this guide, we will avoid using frameworks so we can focus on the fundamentals of how a web application works. We will use Dart, however, to demonstrate code reuse/type checking between client & server code. In larger, mature applications, the advantage of this can't be exaggerated.
+You will build both the client & server for an SPA (Single Page Application).
+
+In this guide, we will avoid using frameworks so we can learn & understand the fundamentals of how a web application works.
+
+We will use Dart (a Java-like language from Google that underpins Flutter) as it enables us to have one language for the entire web application, client and server. This enables code reuse/type checking between client & server code. In larger, mature applications, the advantage of this can't be exaggerated.
 
 #### Prerequisites
 
