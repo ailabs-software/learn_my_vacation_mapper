@@ -102,7 +102,7 @@ You now can build the app with just:
 ./build.sh
 ```
 
-When we later need to also compile (or rather *transpile*) code to run in the browser, this will help us save time.
+When we later need to also compile (or rather *transpile*) code to run in the browser, this will help us save time by building both client and server code from one succinct command.
 
 In the next section, we will start writing Dart code to build it out.
 
