@@ -114,7 +114,3 @@ In the next section, we will start writing Dart code to build it out.
 
 *transpile* is the process of converting code from one programming language to another (source code). This process enables us to target the browser's JS engine much like a CPU architecture.
 
-
-
-**Link to next section here**
-
