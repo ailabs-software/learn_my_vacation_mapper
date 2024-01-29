@@ -116,5 +116,5 @@ In the next section, we will start writing Dart code to build it out.
 
 
 
-**Link to next section here**
+**[Go to next](https://github.com/ailabs-software/learn_vacation_planner/blob/main/2-build_web_server.md)**
 

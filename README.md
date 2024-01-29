@@ -34,6 +34,11 @@ Send along any error you're running into.
 
 
 
+#### Course Sections
+
+1. Set-up your Dart project
+2. Web server middleware - Create http server, bind port, create routes
+
 #### Get Started
 
 The articles are organised in the top directory of this repo, numbered in order.
