@@ -36,8 +36,10 @@ Send along any error you're running into.
 
 #### Course Sections
 
-1. Set-up your Dart project
-2. Web server middleware - Create http server, bind port, create routes
+1. Set-up your first Dart project -- Compiling, packages, etc
+2. Web server middleware - Create http server, bind port, create routes, handler logic
+3. Create client-side (browser) -- including compiling to JS
+4. Write application logic & integrate with Google's reverse geocoding API to show maps & calculate distance between lat/lon points
 
 #### Get Started
 
