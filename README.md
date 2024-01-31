@@ -41,7 +41,9 @@ Send along any error you're running into.
 3. Create client-side (browser) -- including compiling to JS
 4. Write core application code -- model, fetching, displaying, creating items
 5. Integrate with Google's reverse geocoding API to show maps & calculate distance between lat/lon points
-6. Add persistence using an SQL database
+6. Save & retrieve locations entered using an SQL database
+
+Now, you have a working vacation planner application which can record, retrieve & map points of interest along your travels.
 
 #### Get Started
 
